@@ -1,0 +1,832 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://gitlab.med.upenn.edu/" />
+    <option name="token" value="8wsWUAVbBMmC7EetTNQ3" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/affiliation-management/dci.git" />
+          <option name="name" value="dci" />
+          <option name="namespace" value="Affiliation Management" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:affiliation-management/dci.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/affiliation-management/hsdb.git" />
+          <option name="name" value="hsdb" />
+          <option name="namespace" value="Affiliation Management" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:affiliation-management/hsdb.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/barendt/ceal-devise-demo.git" />
+          <option name="name" value="CEAL Devise Demo" />
+          <option name="namespace" value="barendt" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:barendt/ceal-devise-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/documentation/design.git" />
+          <option name="name" value="Design" />
+          <option name="namespace" value="Documentation" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:documentation/design.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/documentation/developer.git" />
+          <option name="name" value="Developer" />
+          <option name="namespace" value="Documentation" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:documentation/developer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/documentation/gitlab-announcements.git" />
+          <option name="name" value="Gitlab Announcements" />
+          <option name="namespace" value="Documentation" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:documentation/gitlab-announcements.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/documentation/infrastructure.git" />
+          <option name="name" value="Infrastructure" />
+          <option name="namespace" value="Documentation" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:documentation/infrastructure.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/documentation/pmacs-dev-staff.git" />
+          <option name="name" value="PMACS Dev Staff" />
+          <option name="namespace" value="Documentation" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:documentation/pmacs-dev-staff.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/documentation/til.git" />
+          <option name="name" value="til" />
+          <option name="namespace" value="Documentation" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:documentation/til.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/faculty-affairs/faculty-onboarding.git" />
+          <option name="name" value="faculty-onboarding" />
+          <option name="namespace" value="Faculty Affairs" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:faculty-affairs/faculty-onboarding.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/faculty-affairs/fapd.git" />
+          <option name="name" value="fapd" />
+          <option name="namespace" value="Faculty Affairs" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:faculty-affairs/fapd.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/faculty-affairs/fapd_emc.git" />
+          <option name="name" value="FAPD EMC" />
+          <option name="namespace" value="Faculty Affairs" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:faculty-affairs/fapd_emc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/faculty-affairs/fapd-api.git" />
+          <option name="name" value="fapd-api" />
+          <option name="namespace" value="Faculty Affairs" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:faculty-affairs/fapd-api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/faculty-affairs/fapd-api-docs.git" />
+          <option name="name" value="fapd-api-docs" />
+          <option name="namespace" value="Faculty Affairs" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:faculty-affairs/fapd-api-docs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/faculty-affairs/fapd-emc.git" />
+          <option name="name" value="fapd-emc" />
+          <option name="namespace" value="Faculty Affairs" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:faculty-affairs/fapd-emc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/ceal.git" />
+          <option name="name" value="ceal" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/ceal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/ceal_rails.git" />
+          <option name="name" value="CEAL Rails Engine" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/ceal_rails.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/devise_ceal_authenticatable.git" />
+          <option name="name" value="devise_ceal_authenticatable" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/devise_ceal_authenticatable.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/elastic.git" />
+          <option name="name" value="elastic" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/elastic.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/gitlab-v1.git" />
+          <option name="name" value="gitlab-v1" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/gitlab-v1.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/my-core.git" />
+          <option name="name" value="my-core" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/my-core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/php-include.git" />
+          <option name="name" value="php-include" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/php-include.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/pmacs.git" />
+          <option name="name" value="PMACS" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/pmacs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/pmacs_person_picker.git" />
+          <option name="name" value="PMACS Person Picker" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/pmacs_person_picker.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/pmacs_protocols.git" />
+          <option name="name" value="PMACS Protocols" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/pmacs_protocols.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/pmacs-bootstrap.git" />
+          <option name="name" value="pmacs-bootstrap" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/pmacs-bootstrap.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/pmacs-javascript.git" />
+          <option name="name" value="pmacs-javascript" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/pmacs-javascript.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/pmacs_app_resources.git" />
+          <option name="name" value="pmacs_app_resources" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/pmacs_app_resources.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/pmacs_gitlab.git" />
+          <option name="name" value="pmacs_gitlab" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/pmacs_gitlab.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/pmacs_redmine.git" />
+          <option name="name" value="pmacs_redmine" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/pmacs_redmine.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/framework/pmacs_refile_encryptor.git" />
+          <option name="name" value="pmacs_refile_encryptor" />
+          <option name="namespace" value="Framework" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:framework/pmacs_refile_encryptor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ids/common.git" />
+          <option name="name" value="Common" />
+          <option name="namespace" value="IDS" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ids/common.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ids/idm.git" />
+          <option name="name" value="Drug Manufacturing" />
+          <option name="namespace" value="IDS" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ids/idm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ids/pdt.git" />
+          <option name="name" value="Prescription Drug Tracking" />
+          <option name="namespace" value="IDS" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ids/pdt.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ids/scheduler.git" />
+          <option name="name" value="Scheduler" />
+          <option name="namespace" value="IDS" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ids/scheduler.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ids/teu.git" />
+          <option name="name" value="Treatment Emergency Unmasking" />
+          <option name="namespace" value="IDS" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ids/teu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/cacher_view.git" />
+          <option name="name" value="cacher_view" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/cacher_view.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/common-2.git" />
+          <option name="name" value="common-2" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/common-2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/cui-reference.git" />
+          <option name="name" value="CUI Reference" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/cui-reference.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/directory.git" />
+          <option name="name" value="directory" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/directory.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/fleshy.git" />
+          <option name="name" value="fleshy" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/fleshy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/gateway.git" />
+          <option name="name" value="gateway" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/gateway.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/jenkins-backups.git" />
+          <option name="name" value="jenkins-backups" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/jenkins-backups.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/meaty.git" />
+          <option name="name" value="meaty" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/meaty.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/mediasite.git" />
+          <option name="name" value="mediasite" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/mediasite.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/orajcosign.git" />
+          <option name="name" value="orajcosign" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/orajcosign.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/queueing.git" />
+          <option name="name" value="queueing" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/queueing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/rolecontrol.git" />
+          <option name="name" value="Role Control" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/rolecontrol.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/skeleton.git" />
+          <option name="name" value="skeleton" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/skeleton.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/som_directory.git" />
+          <option name="name" value="som_directory" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/som_directory.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/tools.git" />
+          <option name="name" value="tools" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/tools.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/utilities.git" />
+          <option name="name" value="utilities" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/utilities.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/infrastructure/wiengine_example.git" />
+          <option name="name" value="wiengine_example" />
+          <option name="namespace" value="Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:infrastructure/wiengine_example.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/central.git" />
+          <option name="name" value="central" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/central.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/clinical_trials.git" />
+          <option name="name" value="clinical_trials" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/clinical_trials.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/ctrc.git" />
+          <option name="name" value="CTRC" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/ctrc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/cse.git" />
+          <option name="name" value="CTRC Scheduling Emailer" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/cse.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/ctsa.git" />
+          <option name="name" value="CTSA" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/ctsa.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/ctsapg.git" />
+          <option name="name" value="ctsapg" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/ctsapg.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/fb.git" />
+          <option name="name" value="FB" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/fb.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/fu.git" />
+          <option name="name" value="FU" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/fu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/members.git" />
+          <option name="name" value="Members" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/members.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/mtr.git" />
+          <option name="name" value="mtr" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/mtr.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/news.git" />
+          <option name="name" value="News" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/news.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/pg.git" />
+          <option name="name" value="PG" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/pg.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/pilotgrants.git" />
+          <option name="name" value="Pilot Grants" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/pilotgrants.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/proteomics.git" />
+          <option name="name" value="Proteomics" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/proteomics.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/proteomics_rails.git" />
+          <option name="name" value="proteomics_rails" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/proteomics_rails.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/resv.git" />
+          <option name="name" value="Research Volunteers" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/resv.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/shared.git" />
+          <option name="name" value="Shared" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/shared.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/symposium.git" />
+          <option name="name" value="Symposium" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/symposium.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/tcl.git" />
+          <option name="name" value="TCL" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/tcl.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/itmat/trclsb.git" />
+          <option name="name" value="TRC Lab Services Billing" />
+          <option name="namespace" value="ITMAT" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:itmat/trclsb.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ohr/auditing.git" />
+          <option name="name" value="Auditing" />
+          <option name="namespace" value="OCR" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ohr/auditing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ohr/crr.git" />
+          <option name="name" value="Clinical Research Registry" />
+          <option name="namespace" value="OCR" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ohr/crr.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ohr/cms.git" />
+          <option name="name" value="CMS" />
+          <option name="namespace" value="OCR" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ohr/cms.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ohr/costfinder.git" />
+          <option name="name" value="Costfinder" />
+          <option name="namespace" value="OCR" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ohr/costfinder.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ohr/crspr.git" />
+          <option name="name" value="CRSPR" />
+          <option name="namespace" value="OCR" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ohr/crspr.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ohr/humres.git" />
+          <option name="name" value="Human Research" />
+          <option name="namespace" value="OCR" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ohr/humres.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ohr/iconnect-exporter.git" />
+          <option name="name" value="iConnect Exporter" />
+          <option name="namespace" value="OCR" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ohr/iconnect-exporter.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ohr/indide.git" />
+          <option name="name" value="Indide" />
+          <option name="namespace" value="OCR" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ohr/indide.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ohr/reba.git" />
+          <option name="name" value="ReBA" />
+          <option name="namespace" value="OCR" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ohr/reba.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ohr/hsb.git" />
+          <option name="name" value="Research Billing Application" />
+          <option name="namespace" value="OCR" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ohr/hsb.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ohr/rpr.git" />
+          <option name="name" value="Research Subject Registry" />
+          <option name="namespace" value="OCR" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ohr/rpr.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/ohr/shared.git" />
+          <option name="name" value="Shared" />
+          <option name="namespace" value="OCR" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:ohr/shared.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/pmacs-operations/crash_plan.git" />
+          <option name="name" value="crash_plan" />
+          <option name="namespace" value="PMACS Operations" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:pmacs-operations/crash_plan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/pmacs-operations/eamz.git" />
+          <option name="name" value="eamz" />
+          <option name="namespace" value="PMACS Operations" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:pmacs-operations/eamz.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/pmacs-operations/isc_billing.git" />
+          <option name="name" value="isc_billing" />
+          <option name="namespace" value="PMACS Operations" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:pmacs-operations/isc_billing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/pmacs-operations/listservmgr.git" />
+          <option name="name" value="listservmgr" />
+          <option name="namespace" value="PMACS Operations" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:pmacs-operations/listservmgr.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/pmacs-operations/lojack.git" />
+          <option name="name" value="lojack" />
+          <option name="namespace" value="PMACS Operations" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:pmacs-operations/lojack.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/pmacs-operations/lsp_finder.git" />
+          <option name="name" value="lsp_finder" />
+          <option name="namespace" value="PMACS Operations" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:pmacs-operations/lsp_finder.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/pmacs-operations/notify.git" />
+          <option name="name" value="notify" />
+          <option name="namespace" value="PMACS Operations" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:pmacs-operations/notify.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/pmacs-operations/rto.git" />
+          <option name="name" value="RTO" />
+          <option name="namespace" value="PMACS Operations" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:pmacs-operations/rto.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/pmacs-operations/wireless_billing.git" />
+          <option name="name" value="wireless_billing" />
+          <option name="namespace" value="PMACS Operations" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:pmacs-operations/wireless_billing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/rgi/feds_api.git" />
+          <option name="name" value="feds_api" />
+          <option name="namespace" value="rgi" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:rgi/feds_api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/rgi/files_in_db.git" />
+          <option name="name" value="files_in_db" />
+          <option name="namespace" value="rgi" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:rgi/files_in_db.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/service-center-infrastructure/sam.git" />
+          <option name="name" value="SAM" />
+          <option name="namespace" value="Service Center Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:service-center-infrastructure/sam.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/service-center-infrastructure/som_billing.git" />
+          <option name="name" value="SOM Billing" />
+          <option name="namespace" value="Service Center Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:service-center-infrastructure/som_billing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/service-center-infrastructure/sos-api.git" />
+          <option name="name" value="SOS API" />
+          <option name="namespace" value="Service Center Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:service-center-infrastructure/sos-api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/service-center-infrastructure/sos-ui.git" />
+          <option name="name" value="SOS UI" />
+          <option name="namespace" value="Service Center Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:service-center-infrastructure/sos-ui.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/service-center-infrastructure/sos-api-docs.git" />
+          <option name="name" value="sos-api-docs" />
+          <option name="namespace" value="Service Center Infrastructure" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:service-center-infrastructure/sos-api-docs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-next/filesys.git" />
+          <option name="name" value="filesys" />
+          <option name="namespace" value="Team Next" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-next/filesys.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-next/wiki.git" />
+          <option name="name" value="Wiki" />
+          <option name="namespace" value="Team Next" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-next/wiki.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/common-2.git" />
+          <option name="name" value="Common-2" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/common-2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/continuous-integration.git" />
+          <option name="name" value="Continuous Integration" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/continuous-integration.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/cref_request.git" />
+          <option name="name" value="cref_request" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/cref_request.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/cref_request-my.git" />
+          <option name="name" value="cref_request-my" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/cref_request-my.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/devise-demo.git" />
+          <option name="name" value="Devise demo" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/devise-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/documentation.git" />
+          <option name="name" value="documentation" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/documentation.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/elasticsearch.git" />
+          <option name="name" value="elasticsearch" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/elasticsearch.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/fisa.git" />
+          <option name="name" value="Finance Interface for SAM Assignments" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/fisa.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/google-search-appliance.git" />
+          <option name="name" value="Google Search Appliance" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/google-search-appliance.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/ip-finder.git" />
+          <option name="name" value="IP Finder" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/ip-finder.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/mcs.git" />
+          <option name="name" value="Microscopy Core Scheduler" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/mcs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/rss.git" />
+          <option name="name" value="RSS" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/rss.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/rss_rails.git" />
+          <option name="name" value="RSS Rails" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/rss_rails.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/secrets-x.git" />
+          <option name="name" value="secrets-x" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/secrets-x.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/somera.git" />
+          <option name="name" value="SOMERA" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/somera.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/team-x/somera_dev.git" />
+          <option name="name" value="somera_dev" />
+          <option name="namespace" value="Team X" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:team-x/somera_dev.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/timand/test.git" />
+          <option name="name" value="test" />
+          <option name="namespace" value="timand" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:timand/test.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/bootstrap-validator-demo.git" />
+          <option name="name" value="Bootstrap Validator Demo" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/bootstrap-validator-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/bundler-lab.git" />
+          <option name="name" value="Bundler Lab" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/bundler-lab.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/carrierwave-demo.git" />
+          <option name="name" value="Carrierwave Demo" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/carrierwave-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/central_zoo.git" />
+          <option name="name" value="Central Zoo" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/central_zoo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/conflicted-recipes.git" />
+          <option name="name" value="Conflicted Recipes" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/conflicted-recipes.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/designer_training.git" />
+          <option name="name" value="Designer Training" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/designer_training.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/encrypted_files.git" />
+          <option name="name" value="encrypted_files" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/encrypted_files.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/gtydwg.git" />
+          <option name="name" value="GTYDWG" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/gtydwg.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/interview-materials.git" />
+          <option name="name" value="Interview Materials" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/interview-materials.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/railsy.git" />
+          <option name="name" value="Railsy" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/railsy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/recipes.git" />
+          <option name="name" value="Recipes" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/recipes.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/refile-test.git" />
+          <option name="name" value="refile-test" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/refile-test.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/rss.git" />
+          <option name="name" value="RSS" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/rss.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/widget_exercise.git" />
+          <option name="name" value="widget_exercise" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/widget_exercise.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/wiengine_training.git" />
+          <option name="name" value="wiengine_training" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/wiengine_training.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/training/zoo.git" />
+          <option name="name" value="Zoo" />
+          <option name="namespace" value="Training" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:training/zoo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.med.upenn.edu/waldavis/fapd-api.git" />
+          <option name="name" value="fapd-api" />
+          <option name="namespace" value="waldavis" />
+          <option name="sshUrl" value="git@gitlab.med.upenn.edu:waldavis/fapd-api.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
