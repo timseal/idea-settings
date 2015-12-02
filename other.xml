@@ -64,23 +64,9 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="RecentTaskRepositories">
-    <Gitlab shared="false" url="https://gitlab.med.upenn.edu">
+    <Generic shared="false" url="https://www11.v1host.com/upennpmacsdev">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="currentProject">
-        <GitlabProject id="-1" />
-      </option>
-      <password>df92dfdddfd9dffddfffdfebdffcdfc8dfe8dfe7dfc7dfe9df9ddfefdfcfdfdedffedfe4dffbdf99</password>
-      <option name="loginAnonymously" value="false" />
-      <option name="preferredCloseTaskState" />
-      <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="false" />
-      <option name="useProxy" value="false" />
-      <username />
-    </Gitlab>
-    <Generic shared="true" url="https://www11.v1host.com/upennpmacsdev">
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="downloadTasksInSeparateRequests" value="false" />
+      <option name="downloadTasksInSeparateRequests" value="true" />
       <password>dfcddfdfdf9bdfdedfcbdfd8</password>
       <option name="loginAnonymously" value="false" />
       <option name="loginMethodType" value="GET" />
@@ -144,5 +130,19 @@
       <option name="useProxy" value="false" />
       <username>timand</username>
     </Generic>
+    <Gitlab shared="false" url="https://gitlab.med.upenn.edu">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <GitlabProject id="-1" />
+      </option>
+      <password>df92dfdddfd9dffddfffdfebdffcdfc8dfe8dfe7dfc7dfe9df9ddfefdfcfdfdedffedfe4dffbdf99</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Gitlab>
   </component>
 </application>
