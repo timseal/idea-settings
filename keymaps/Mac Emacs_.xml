@@ -228,6 +228,9 @@
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl meta f7" />
     <keyboard-shortcut first-keystroke="shift meta s" />

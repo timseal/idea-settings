@@ -30,5 +30,71 @@
       <option name="useProxy" value="false" />
       <username />
     </Gitlab>
+    <Generic shared="true" url="https://www11.v1host.com/upennpmacsdev">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="downloadTasksInSeparateRequests" value="false" />
+      <password>dfcddfdfdf9bdfdedfcbdfd8</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="loginMethodType" value="GET" />
+      <option name="loginUrl" value="" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="responseHandlers">
+        <XPathResponseHandler>
+          <selectors>
+            <selector name="tasks" path="" />
+            <selector name="id" path="" />
+            <selector name="summary" path="" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-closed" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </XPathResponseHandler>
+        <JsonResponseHandler>
+          <selectors>
+            <selector name="tasks" path="" />
+            <selector name="id" path="" />
+            <selector name="summary" path="" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-closed" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </JsonResponseHandler>
+        <RegExResponseHandler>
+          <option name="taskRegex" value="" />
+        </RegExResponseHandler>
+      </option>
+      <option name="responseType" value="XML" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="singleTaskMethodType" value="GET" />
+      <option name="singleTaskUrl" value="https://www11.v1host.com/UPennPMACSDev/rest-1.v1/Data/Story/{id}" />
+      <option name="subtypeName" />
+      <option name="tasksListMethodType" value="GET" />
+      <option name="tasksListUrl" value="https://www11.v1host.com/UPennPMACSDev/rest-1.v1/Data/Story" />
+      <option name="templateVariables">
+        <list />
+      </option>
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>timand</username>
+    </Generic>
   </component>
 </application>
