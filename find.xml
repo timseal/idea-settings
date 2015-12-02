@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/timand/gems/ceal_rails'" />
-    <option name="defaultScopeName" value="Directory '/Users/timand/gems/ceal_rails'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/timand/gems/ceal_rails'" />
+    <option name="customScope" value="Project 'faculty-onboarding'" />
+    <option name="defaultScopeName" value="Project 'faculty-onboarding'" />
+    <option name="SEARCH_SCOPE" value="Project 'faculty-onboarding'" />
   </component>
 </application>

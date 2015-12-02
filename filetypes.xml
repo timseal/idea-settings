@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <removed_mapping ext="gitignore" type="Git file" />
+      <removed_mapping pattern=".gitignore" type="Git file" />
+      <mapping pattern=".gitignore" type="Ignore file" />
+      <mapping ext="inc" type="PHP" />
+      <mapping ext="php" type="PHP" />
+      <mapping ext="phl" type="PHP" />
+      <mapping ext="plantuml" type="PlantUML file" />
+    </extensionMap>
+  </component>
+</application>
