@@ -6,6 +6,10 @@
           <option name="url" value="git@gitlab.med.upenn.edu:faculty-affairs/faculty-onboarding.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.med.upenn.edu:waldavis/magic-remote-form.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/RubymineProjects" />
