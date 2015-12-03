@@ -6,10 +6,19 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>Rails</id>
+          </State>
+          <State>
+            <id>Ruby</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>CoffeeScript</id>
+            <id>Ruby</id>
           </State>
         </selected-state>
       </profile-state>

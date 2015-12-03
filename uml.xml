@@ -1,0 +1,11 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="fitContentAfterLayout" value="true" />
+    <option name="categories">
+      <map>
+        <entry id="RailsDependency" categories="System DB fields;Own fields" />
+        <entry id="Ruby" categories="Fields;Methods;Constants" />
+      </map>
+    </option>
+  </component>
+</application>
