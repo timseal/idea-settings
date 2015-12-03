@@ -73,16 +73,38 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="566088bce570e3afa67bfcdd" name="Tasks for Rubymine" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="5660899592256e645cae97c6" name="B-98765 Story thing" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="504d2bc1d37ad6b269755a93" name="timseal" />
+      </option>
+      <password>df9ddfcedf9edf99dfccdf93df9cdfcedf9bdfcfdf99df9ddfc9df92df92dfc8df99dfcfdf9edfcfdfc9dfcfdf9bdf99df93df9edfccdf9cdf9adf9cdfc9dfccdf9edfcedfccdf9fdf99df9bdf98dfc8df9adfc9df99dfc9df9edf9cdf9adf93df9edf98df9fdf92dfccdf9ddf92dfcbdf93dfcfdfcedf99df9fdf9bdf9adf98</password>
+      <option name="includeAllCards" value="true" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
     <Gitlab shared="false" url="https://gitlab.med.upenn.edu">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <option name="currentProject">
-        <GitlabProject id="-1" />
+        <GitlabProject id="773" />
       </option>
       <password>df92dfdddfd9dffddfffdfebdffcdfc8dfe8dfe7dfc7dfe9df9ddfefdfcfdfdedffedfe4dffbdf99</password>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="shouldFormatCommitMessage" value="true" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
       <username />
