@@ -73,7 +73,8 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.1.0" last-modified="1447858627000" />
+    <node-interpreter path="/usr/local/bin/node" version="5.1.1" last-modified="1449204084000" />
+    <node-interpreter path="/usr/local/Cellar/node/5.1.1/bin/node" version="5.1.1" last-modified="1449204084000" />
     <node-interpreter path="/usr/local/Cellar/node/5.1.0/bin/node" version="5.1.0" last-modified="1447858627000" />
   </component>
   <component name="RecentTaskRepositories">
