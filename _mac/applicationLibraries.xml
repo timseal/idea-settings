@@ -3415,20 +3415,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rdoc-4.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="react-0.14.3" type="javaScript">
+    <library name="react-0.14.7" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$USER_HOME$/Projects/react-0.14.3/build/react-with-addons.js" />
-          <item url="file://$USER_HOME$/Projects/react-0.14.3/build/react-dom-server.js" />
-          <item url="file://$USER_HOME$/Projects/react-0.14.3/build/react.js" />
-          <item url="file://$USER_HOME$/Projects/react-0.14.3/build/react-dom.js" />
+          <item url="file://$USER_HOME$/Projects/react-0.14.7/build/react-dom-server.js" />
+          <item url="file://$USER_HOME$/Projects/react-0.14.7/build/react.js" />
+          <item url="file://$USER_HOME$/Projects/react-0.14.7/build/react-dom.js" />
+          <item url="file://$USER_HOME$/Projects/react-0.14.7/build/react-with-addons.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/Projects/react-0.14.3/build/react-with-addons.js" />
-        <root url="file://$USER_HOME$/Projects/react-0.14.3/build/react-dom-server.js" />
-        <root url="file://$USER_HOME$/Projects/react-0.14.3/build/react.js" />
-        <root url="file://$USER_HOME$/Projects/react-0.14.3/build/react-dom.js" />
+        <root url="file://$USER_HOME$/Projects/react-0.14.7/build/react-dom-server.js" />
+        <root url="file://$USER_HOME$/Projects/react-0.14.7/build/react.js" />
+        <root url="file://$USER_HOME$/Projects/react-0.14.7/build/react-dom.js" />
+        <root url="file://$USER_HOME$/Projects/react-0.14.7/build/react-with-addons.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
