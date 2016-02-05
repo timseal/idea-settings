@@ -36,74 +36,6 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
-  <component name="DebuggerSettings">
-    <option name="TRACING_FILTERS_ENABLED" value="true" />
-    <option name="FORCE_CLASSIC_VM" value="true" />
-    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
-    <option name="SKIP_CLASSLOADERS" value="true" />
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
-    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
-    <filter>
-      <option name="PATTERN" value="com.sun.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="java.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="javax.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.omg.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="sun.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="jdk.internal.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="junit.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.intellij.rt.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.yourkit.runtime.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.springsource.loaded.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.springsource.loaded.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="javassist.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.apache.webbeans.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.ibm.ws.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-  </component>
   <component name="DependencyUISettings">
     <option name="SCOPE_TYPE" value="file" />
   </component>
@@ -114,7 +46,7 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.4.0" last-modified="1452116859000" />
+    <node-interpreter path="/usr/local/bin/node" version="5.5.0" last-modified="1453338507000" />
     <node-interpreter path="/usr/local/Cellar/node/5.3.0/bin/node" version="5.3.0" last-modified="1450291774000" />
     <node-interpreter path="/usr/local/Cellar/node/5.4.0/bin/node" version="5.4.0" last-modified="1452116859000" />
     <node-interpreter path="/usr/local/Cellar/node/5.2.0/bin/node" version="5.2.0" last-modified="1449677296000" />
