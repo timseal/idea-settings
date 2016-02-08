@@ -2,7 +2,7 @@
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="cccccc" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
@@ -205,17 +205,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.HEREGEX_CONTENT">
-      <value />
-    </option>
     <option name="COFFEESCRIPT.HEREGEX_ID">
       <value>
         <option name="FOREGROUND" value="ffcc66" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
-      <value />
     </option>
     <option name="COFFEESCRIPT.JAVASCRIPT_ID">
       <value>
@@ -1828,9 +1822,6 @@
         <option name="BACKGROUND" value="f2777a" />
       </value>
     </option>
-    <option name="RUBY_COMMA">
-      <value />
-    </option>
     <option name="RUBY_COMMENT">
       <value>
         <option name="FOREGROUND" value="999999" />
@@ -1954,9 +1945,6 @@
         <option name="FOREGROUND" value="f99157" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="RUBY_SEMICOLON">
-      <value />
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>

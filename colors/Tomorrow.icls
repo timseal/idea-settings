@@ -174,17 +174,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.HEREGEX_CONTENT">
-      <value />
-    </option>
     <option name="COFFEESCRIPT.HEREGEX_ID">
       <value>
         <option name="FOREGROUND" value="eab700" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
-      <value />
     </option>
     <option name="COFFEESCRIPT.JAVASCRIPT_ID">
       <value>
@@ -1609,9 +1603,6 @@
         <option name="BACKGROUND" value="c82829" />
       </value>
     </option>
-    <option name="RUBY_COMMA">
-      <value />
-    </option>
     <option name="RUBY_COMMENT">
       <value>
         <option name="FOREGROUND" value="8e908c" />
@@ -1735,9 +1726,6 @@
         <option name="FOREGROUND" value="c82829" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="RUBY_SEMICOLON">
-      <value />
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>

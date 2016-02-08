@@ -1,8 +1,7 @@
 <scheme name="Base16-Railscasts-Light" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a5c261" />
     <option name="ANNOTATIONS_COLOR" value="3a4055" />
@@ -34,9 +33,6 @@
         <option name="FOREGROUND" value="bc9458" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES">
-      <value />
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
@@ -91,12 +87,6 @@
       <value>
         <option name="FOREGROUND" value="cdcd00" />
       </value>
-    </option>
-    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
-      <value />
-    </option>
-    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
-      <value />
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
@@ -378,9 +368,6 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
-    <option name="ENUM_NAME_ATTRIBUTES">
-      <value />
-    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="da4939" />
@@ -471,9 +458,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES">
-      <value />
-    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="519f50" />
@@ -484,9 +468,6 @@
         <option name="FOREGROUND" value="6d9cbe" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="INTERFACE_NAME_ATTRIBUTES">
-      <value />
     </option>
     <option name="Instance property reference ID">
       <value>
@@ -551,9 +532,6 @@
         <option name="FOREGROUND" value="b6b3eb" />
       </value>
     </option>
-    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
-      <value />
-    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="bc9458" />
@@ -581,9 +559,6 @@
         <option name="FOREGROUND" value="6d9cbe" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value />
     </option>
     <option name="Scala Template lazy val/var">
       <value>
