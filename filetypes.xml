@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="sqlite3" type="Native" />
       <mapping ext="phl" type="PHP" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="bib" type="textmate" />
       <mapping pattern="tex" type="textmate" />
