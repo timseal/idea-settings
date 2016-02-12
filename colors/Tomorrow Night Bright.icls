@@ -512,6 +512,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CSS.PROPERTY_VALUE">
+      <value />
+    </option>
     <option name="CSS.STRING">
       <value>
         <option name="FOREGROUND" value="b5bd6b" />
