@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/timand/mount/projects/faculty-onboarding/app/views/distributions/edit.html.erb'" />
-    <option name="defaultScopeName" value="File '/Users/timand/mount/projects/faculty-onboarding/app/views/distributions/edit.html.erb'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/timand/mount/projects/faculty-onboarding/app/views/distributions/edit.html.erb'" />
+    <option name="customScope" value="File '/Users/timand/mount/projects/faculty-onboarding/app/assets/javascripts/supplemental_supports.js'" />
+    <option name="defaultScopeName" value="File '/Users/timand/mount/projects/faculty-onboarding/app/assets/javascripts/supplemental_supports.js'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/timand/mount/projects/faculty-onboarding/app/assets/javascripts/supplemental_supports.js'" />
   </component>
 </application>
