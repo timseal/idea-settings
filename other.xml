@@ -36,11 +36,11 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.5.0" last-modified="1453338507000" />
-    <node-interpreter path="/usr/local/Cellar/node/5.3.0/bin/node" version="5.3.0" last-modified="1450291774000" />
-    <node-interpreter path="/usr/local/Cellar/node/5.4.0/bin/node" version="5.4.0" last-modified="1452116859000" />
-    <node-interpreter path="/usr/local/Cellar/node/5.2.0/bin/node" version="5.2.0" last-modified="1449677296000" />
-    <node-interpreter path="/usr/local/Cellar/node/5.1.0/bin/node" version="5.1.0" last-modified="1447858627000" />
-    <node-interpreter path="/usr/local/Cellar/node/5.1.1/bin/node" version="5.1.1" last-modified="1449204084000" />
+    <node-interpreter path="/usr/local/bin/node" version="(Does not exist)" last-modified="1457037411185" />
+    <node-interpreter path="/usr/local/Cellar/node/5.3.0/bin/node" version="(Does not exist)" last-modified="1457037411186" />
+    <node-interpreter path="/usr/local/Cellar/node/5.4.0/bin/node" version="(Does not exist)" last-modified="1457037411186" />
+    <node-interpreter path="/usr/local/Cellar/node/5.2.0/bin/node" version="(Does not exist)" last-modified="1457037411186" />
+    <node-interpreter path="/usr/local/Cellar/node/5.1.0/bin/node" version="(Does not exist)" last-modified="1457037411186" />
+    <node-interpreter path="/usr/local/Cellar/node/5.1.1/bin/node" version="(Does not exist)" last-modified="1457037411186" />
   </component>
 </application>
