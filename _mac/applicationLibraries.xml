@@ -605,6 +605,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-6.3.3.1/vendor" />
       </SOURCES>
     </library>
+    <library name="babel-source (v5.8.35, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/babel-source-5.8.35/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/babel-source-5.8.35/lib" />
+      </SOURCES>
+    </library>
+    <library name="babel-transpiler (v0.7.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/babel-transpiler-0.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/babel-transpiler-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.10, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
@@ -629,6 +647,19 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.10/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="bcrypt (v3.1.11, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
     <library name="bigdecimal (v1.2.4, rbenv: 2.1.2) [gem]">
@@ -1769,6 +1800,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/faker-1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="faker (v1.6.3, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/faker-1.6.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/faker-1.6.3/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.9.1, rbenv: 2.1.2) [gem]">
@@ -3513,6 +3553,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/parser-2.3.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.3.0.6, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/parser-2.3.0.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/parser-2.3.0.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/parser-2.3.0.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/parser-2.3.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="pmacs-activerecord-oracle_enhanced-adapter (v1.5.5.1, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/pmacs-activerecord-oracle_enhanced-adapter-1.5.5.1/lib" />
@@ -4443,6 +4494,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-10.5.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-10.5.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-10.5.0/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v11.1.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-11.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-11.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-11.1.1/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-11.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-11.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-11.1.1/rakelib" />
       </SOURCES>
     </library>
     <library name="rb-fsevent (v0.9.4, rbenv: 2.1.2) [gem]">
