@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="sqlite3" type="Native" />
+      <mapping ext="rtf" type="Native" />
       <mapping ext="phl" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
