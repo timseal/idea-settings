@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/timand/mount/projects/faculty-onboarding/app/assets/javascripts/salary.es6'" />
-    <option name="defaultScopeName" value="File '/Users/timand/mount/projects/faculty-onboarding/app/assets/javascripts/salary.es6'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/timand/mount/projects/faculty-onboarding/app/assets/javascripts/salary.es6'" />
+    <option name="customScope" value="File '/Users/timand/mount/projects/faculty-onboarding/app/models/concerns/submit_validations.rb'" />
+    <option name="defaultScopeName" value="File '/Users/timand/mount/projects/faculty-onboarding/app/models/concerns/submit_validations.rb'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/timand/mount/projects/faculty-onboarding/app/models/concerns/submit_validations.rb'" />
   </component>
 </application>

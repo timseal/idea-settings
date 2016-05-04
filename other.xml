@@ -10,12 +10,18 @@
             <id>Java</id>
           </State>
           <State>
+            <id>RubocopRuby</id>
+          </State>
+          <State>
+            <id>Ruby</id>
+          </State>
+          <State>
             <id>Visibility issuesJava</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>CoffeeScript</id>
+            <id>RubocopRuby</id>
           </State>
         </selected-state>
       </profile-state>
