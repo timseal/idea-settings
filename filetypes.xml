@@ -1,25 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.gitignore;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="sqlite3" type="Native" />
       <mapping ext="rtf" type="Native" />
-      <mapping ext="inc" type="PHP" />
-      <mapping ext="php" type="PHP" />
+      <mapping ext="sqlite3" type="Native" />
       <mapping ext="phl" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
-      <mapping pattern="cls" type="textmate" />
       <mapping pattern="bbx" type="textmate" />
       <mapping pattern="sty" type="textmate" />
       <mapping pattern="bib" type="textmate" />
       <mapping pattern="cbx" type="textmate" />
       <mapping pattern="tex" type="textmate" />
-      <mapping ext="bib" type="textmate" />
-      <mapping ext="cls" type="textmate" />
+      <mapping pattern="cls" type="textmate" />
       <mapping ext="tex" type="textmate" />
-      <mapping ext="cbx" type="textmate" />
       <mapping ext="sty" type="textmate" />
       <mapping ext="bbx" type="textmate" />
+      <mapping ext="bib" type="textmate" />
+      <mapping ext="cls" type="textmate" />
+      <mapping ext="cbx" type="textmate" />
     </extensionMap>
   </component>
 </application>
