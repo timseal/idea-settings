@@ -15,12 +15,90 @@
     </option>
     <option name="themesMapping">
       <map>
+        <entry key="Base16-3024-Dark" value="Mac Classic" />
+        <entry key="Base16-3024-Light" value="Mac Classic" />
+        <entry key="Base16-Apathy-Dark" value="Mac Classic" />
+        <entry key="Base16-Apathy-Light" value="Mac Classic" />
+        <entry key="Base16-Ashes-Dark" value="Mac Classic" />
+        <entry key="Base16-Ashes-Light" value="Mac Classic" />
+        <entry key="Base16-Atelier Dune-Dark" value="Mac Classic" />
+        <entry key="Base16-Atelier Dune-Light" value="Mac Classic" />
+        <entry key="Base16-Atelier Forest-Dark" value="Mac Classic" />
+        <entry key="Base16-Atelier Forest-Light" value="Mac Classic" />
+        <entry key="Base16-Atelier Heath-Dark" value="Mac Classic" />
+        <entry key="Base16-Atelier Heath-Light" value="Mac Classic" />
+        <entry key="Base16-Atelier Lakeside-Dark" value="Mac Classic" />
         <entry key="Base16-Atelier Lakeside-Light" value="Mac Classic" />
+        <entry key="Base16-Atelier Seaside-Dark" value="Mac Classic" />
+        <entry key="Base16-Atelier Seaside-Light" value="Mac Classic" />
+        <entry key="Base16-Bespin-Dark" value="Mac Classic" />
+        <entry key="Base16-Bespin-Light" value="Mac Classic" />
+        <entry key="Base16-Brewer-Dark" value="Mac Classic" />
+        <entry key="Base16-Brewer-Light" value="Mac Classic" />
+        <entry key="Base16-Bright-Dark" value="Mac Classic" />
+        <entry key="Base16-Bright-Light" value="Mac Classic" />
+        <entry key="Base16-Chalk-Dark" value="Mac Classic" />
+        <entry key="Base16-Chalk-Light" value="Mac Classic" />
+        <entry key="Base16-Codeschool-Dark" value="Mac Classic" />
+        <entry key="Base16-Codeschool-Light" value="Mac Classic" />
+        <entry key="Base16-Colors-Dark" value="Mac Classic" />
+        <entry key="Base16-Colors-Light" value="Mac Classic" />
+        <entry key="Base16-Default-Dark" value="Mac Classic" />
+        <entry key="Base16-Default-Light" value="Mac Classic" />
+        <entry key="Base16-Eighties-Dark" value="Mac Classic" />
+        <entry key="Base16-Eighties-Light" value="Mac Classic" />
+        <entry key="Base16-Embers-Dark" value="Mac Classic" />
+        <entry key="Base16-Embers-Light" value="Mac Classic" />
+        <entry key="Base16-Flat-Dark" value="Mac Classic" />
+        <entry key="Base16-Flat-Light" value="Mac Classic" />
+        <entry key="Base16-Google-Dark" value="Mac Classic" />
+        <entry key="Base16-Google-Light" value="Mac Classic" />
+        <entry key="Base16-Grayscale-Dark" value="Mac Classic" />
+        <entry key="Base16-Grayscale-Light" value="Mac Classic" />
+        <entry key="Base16-Green Screen-Dark" value="Mac Classic" />
+        <entry key="Base16-Green Screen-Light" value="Mac Classic" />
+        <entry key="Base16-Hopscotch-Dark" value="Mac Classic" />
+        <entry key="Base16-Hopscotch-Light" value="Mac Classic" />
+        <entry key="Base16-Isotope-Dark" value="Mac Classic" />
+        <entry key="Base16-Isotope-Light" value="Mac Classic" />
+        <entry key="Base16-London Tube-Dark" value="Mac Classic" />
+        <entry key="Base16-London Tube-Light" value="Mac Classic" />
+        <entry key="Base16-Marrakesh-Dark" value="Mac Classic" />
+        <entry key="Base16-Marrakesh-Light" value="Mac Classic" />
+        <entry key="Base16-Mocha-Dark" value="Mac Classic" />
+        <entry key="Base16-Mocha-Light" value="Mac Classic" />
+        <entry key="Base16-Monokai-Dark" value="Mac Classic" />
+        <entry key="Base16-Monokai-Light" value="Mac Classic" />
+        <entry key="Base16-Ocean-Dark" value="Mac Classic" />
+        <entry key="Base16-Ocean-Light" value="Mac Classic" />
+        <entry key="Base16-Paraiso-Dark" value="Mac Classic" />
+        <entry key="Base16-Paraiso-Light" value="Mac Classic" />
+        <entry key="Base16-Pop-Dark" value="Mac Classic" />
+        <entry key="Base16-Pop-Light" value="Mac Classic" />
+        <entry key="Base16-Railscasts-Dark" value="Mac Classic" />
+        <entry key="Base16-Railscasts-Light" value="Mac Classic" />
+        <entry key="Base16-Solarized-Dark" value="Mac Classic" />
+        <entry key="Base16-Solarized-Light" value="Mac Classic" />
+        <entry key="Base16-Summerfruit-Dark" value="Mac Classic" />
+        <entry key="Base16-Summerfruit-Light" value="Mac Classic" />
+        <entry key="Base16-Tomorrow-Dark" value="Mac Classic" />
+        <entry key="Base16-Tomorrow-Light" value="Mac Classic" />
+        <entry key="Base16-Twilight-Dark" value="Mac Classic" />
+        <entry key="Base16-Twilight-Light" value="Mac Classic" />
+        <entry key="Base16-harmonic16-Dark" value="Mac Classic" />
+        <entry key="Base16-harmonic16-Light" value="Mac Classic" />
+        <entry key="Base16-shapeshifter-Dark" value="Mac Classic" />
+        <entry key="Base16-shapeshifter-Light" value="Mac Classic" />
         <entry key="Darcula" value="Mac Classic" />
         <entry key="Default" value="Mac Classic" />
         <entry key="Default copy" value="Mac Classic" />
+        <entry key="TKA" value="Mac Classic" />
+        <entry key="Tomorrow" value="Mac Classic" />
+        <entry key="Tomorrow Night" value="Mac Classic" />
         <entry key="Tomorrow Night Blue" value="Mac Classic" />
         <entry key="Tomorrow Night Blue copy" value="Mac Classic" />
+        <entry key="Tomorrow Night Bright" value="Mac Classic" />
+        <entry key="Tomorrow Night Eighties" value="Mac Classic" />
       </map>
     </option>
   </component>
