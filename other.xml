@@ -214,5 +214,18 @@
       <option name="useProxy" value="false" />
       <username />
     </Gitlab>
+    <VersionOne shared="false" url="https://www11.v1host.com/UPennPMACSDev">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfcddfdfdf9bdfdedfcbdfd8</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="scope" value="All stories" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="team" value="" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>timand</username>
+    </VersionOne>
   </component>
 </application>

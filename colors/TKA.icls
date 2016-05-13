@@ -1,6 +1,7 @@
 <scheme name="TKA" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_FONT_NAME" value="PragmataPro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="568c3b" />
