@@ -1013,6 +1013,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.12.5, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/man" />
+      </SOURCES>
+    </library>
     <library name="bundler-unload (v1.0.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-unload-1.0.2/lib" />
@@ -5978,17 +5993,6 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ruby-oci8/2.2.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-oci8-2.2.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-oci8-2.2.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="ruby-oci8 (v2.2.2, rbenv: 2.3.0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-oci8-2.2.2/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-oci8-2.2.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-oci8-2.2.2/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-oci8-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.7.5, rbenv: 2.1.2) [gem]">
