@@ -6,6 +6,8 @@
     <option name="FONT_FACE" value="Lato" />
     <option name="FONT_SIZE" value="12" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
