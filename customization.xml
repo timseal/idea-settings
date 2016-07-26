@@ -1,5 +1,10 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="ProfilingActions" is_group="true" action_type="-1" position="20">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ReplaceInPath" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -12,5 +17,28 @@
       <path value="Toolbar Find Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="EditorIncreaseFontSize" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorDecreaseFontSize" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReformatCode" is_action="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="ReformatCode" icon="$USER_HOME$/Downloads/PrettyPrint16.png" />
+    <action id="EditorIncreaseFontSize" icon="$APPLICATION_HOME_DIR$/Resources/IJ.help/Contents/Resources/Shared/plus_expand.png" />
+    <action id="EditorDecreaseFontSize" icon="$APPLICATION_HOME_DIR$/Resources/IJ.help/Contents/Resources/Shared/minusSign.png" />
   </component>
 </application>
