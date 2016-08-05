@@ -2,12 +2,16 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="669d3df9-f78c-46cd-8a61-fc7c4cafd463" name="webdev2" url="http://localhost">
-        <fileTransfer host="webdev2.med.upenn.edu" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/timand" accessType="SFTP" username="timand" keyPair="true">
+        <fileTransfer host="webdev2.med.upenn.edu" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/timand" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAcMeH0OttcXmSq5i28F7MiPx7uaWIKHhhR8BYWUQnp7cs0cu6ipjpeECgalyv7W2VWkMuMlQ59m+WeYVApcx5a0uJL+X9OczMYK5wZgaeSK/OWLXrMz1c2W4AsooCKx1GvjWydN+icNXLQO7zWS/V500KDc7Kd6MGW2vN/ImxP6tq</data>
   </component>
 </application>
