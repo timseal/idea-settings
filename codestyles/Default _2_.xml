@@ -15,4 +15,7 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="ruby">
+    <option name="INDENT_WHEN_CASES" value="false" />
+  </codeStyleSettings>
 </code_scheme>
