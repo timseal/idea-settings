@@ -3131,6 +3131,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pmacs_gitlab-0.1.0/config" />
       </SOURCES>
     </library>
+    <library name="pmacs_gitlab (v0.1.0@adf28c, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/pmacs_gitlab-adf28c9d8c99/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/pmacs_gitlab-adf28c9d8c99/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/pmacs_gitlab-adf28c9d8c99/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/pmacs_gitlab-adf28c9d8c99/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/pmacs_gitlab-adf28c9d8c99/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/pmacs_gitlab-adf28c9d8c99/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/pmacs_gitlab-adf28c9d8c99/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/pmacs_gitlab-adf28c9d8c99/config" />
+      </SOURCES>
+    </library>
     <library name="pmacs_gitlab (v0.1.0@d1ac21, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/pmacs_gitlab-d1ac21ee6c26/app" />
