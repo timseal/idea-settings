@@ -4101,6 +4101,15 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="record_tag_helper (v1.0.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/record_tag_helper-1.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/record_tag_helper-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="redcard (v1.1.0, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redcard-1.1.0/lib" />
