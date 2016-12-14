@@ -775,6 +775,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/churn-1.0.2/man" />
       </SOURCES>
     </library>
+    <library name="city-state (v0.0.13@f91e4b, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/city-state-f91e4b3a44db/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/city-state-f91e4b3a44db/lib" />
+      </SOURCES>
+    </library>
     <library name="clipboard-rails (v1.5.15, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/clipboard-rails-1.5.15/bin" />
