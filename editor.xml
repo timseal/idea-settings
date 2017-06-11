@@ -16,6 +16,10 @@
   <component name="RubyEditorOptions">
     <option name="startInterpolationOnHash" value="true" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingEnabled" value="false" />
   </component>
