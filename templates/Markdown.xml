@@ -1,6 +1,0 @@
-<templateSet group="Markdown">
-  <template name=".task" value="- [$STATUS$] $END$" description="Task Item - [ ]" toReformat="false" toShortenFQNames="false">
-    <variable name="STATUS" expression="" defaultValue=" " alwaysStopAt="true" />
-    <context />
-  </template>
-</templateSet>
