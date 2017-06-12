@@ -1533,15 +1533,9 @@
       </SOURCES>
     </library>
     <library name="gitup (v0.0.3, rbenv: 2.3.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/gitup-0.0.3/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/gitup-0.0.3/lib" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/gitup-0.0.3/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/gitup-0.0.3/lib" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="globalid (v0.3.7, rbenv: 2.3.1) [gem]">
       <CLASSES>
